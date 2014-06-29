@@ -57,6 +57,7 @@ a:active {
     font-size:200%;
     margin:auto;
     margin-top: 50px;
+    color:white;
     background-color:#e45f67;
     background: linear-gradient(#e45f67, #e45e67);
     border-radius: 2px;
